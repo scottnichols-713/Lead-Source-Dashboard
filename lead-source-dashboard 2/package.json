@@ -1,0 +1,6 @@
+{
+  "name": "lead-source-dashboard",
+  "private": true,
+  "type": "module",
+  "engines": { "node": ">=20" }
+}
